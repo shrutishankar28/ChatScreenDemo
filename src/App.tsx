@@ -9,7 +9,7 @@ import {
   TextInput,
   Alert,
 } from 'react-native';
-import {chatList} from '../data';
+import {chatList} from './data';
 import {Header, SubHeader, Avatar} from './components';
 import {Colors, GlobalStyles} from './theme';
 
